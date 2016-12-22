@@ -1,0 +1,28 @@
+#thumbWrapper { 
+    width: 600px;
+    overflow: auto;
+}
+#thumbList {
+    white-space: nowrap;
+    margin: 0px;
+}
+#thumbList li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 2px;
+    cursor: pointer;
+}
+#thumbList li:hover {
+    opacity: 0.5;
+}
+#row_pic {
+    margin-top: 420px;
+}
+#albumImage {
+    width: 620px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+#albumImage img {
+    display: block;
+}

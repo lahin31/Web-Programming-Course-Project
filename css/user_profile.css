@@ -1,0 +1,15 @@
+#name_u {
+    font-family: fantasy;
+    font-size: 50px;
+    margin-left: 260px;
+}
+
+#u_info {
+    margin-left: 260px;
+    margin-top: 30px;
+}
+
+#u_name, #u_email, #u_addr {
+    font-family: sans-serif;
+    font-weight: bold;
+}
